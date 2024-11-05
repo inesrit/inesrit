@@ -19,10 +19,10 @@
 
 ### :woman_technologist: About Me :
 <p>
-  📚 Computer Science Student.
+  📚 Software Engineer.
 </p>
 <p>
-  🚀 Passionate about Java, Spring, React, and other technologies.
+  🚀 Passionate about Java, Spring, Javascript, React, and other technologies.
 </p>
 
 ---
